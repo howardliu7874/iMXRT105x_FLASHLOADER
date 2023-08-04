@@ -1,6 +1,6 @@
 # FlexSPI Nor Flash Programming Algorithm for NXP RT1050 EVKB
 
-For more information, refer to the documentation available at:
+For more information, please refer to the documentation available at:
 
 http://arm-software.github.io/CMSIS_5/Pack/html/flashAlgorithm.html
 
